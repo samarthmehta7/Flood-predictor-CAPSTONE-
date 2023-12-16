@@ -1,0 +1,1 @@
+from CAPSTONE_DEPLOY.wsgi import app
